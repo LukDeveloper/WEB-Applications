@@ -48,8 +48,8 @@ $pontos = array(
 			</button>
 			<div class="collapse navbar-collapse" id="navbarSupportedContent">
 				<div class="row" style="width: 100%; margin-left: 0px; padding-left: 20px">
-					<div class="col" style="">
-						<div class="row" style="">
+					<div class="col">
+						<div class="row">
 							<form name="o">
 								<label style="font-size: 20px; color: white; margin-right: 4px; margin-left: 18px; font-weight: bold; margin-top: 4px; margin-bottom: 0px; ">Origem: </label>
 								<select name="origem" class="form-control" style="width: 220px">
